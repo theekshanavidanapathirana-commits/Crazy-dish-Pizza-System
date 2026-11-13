@@ -1,0 +1,1 @@
+[2026-11-13 11:47:35] OrderID: ORD-1001 | Customer: Kasun Perera | Items: BBQ Chicken (Large) | Total: LKR 2150.0 | Cash on Delivery

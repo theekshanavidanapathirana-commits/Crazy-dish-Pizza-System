@@ -1,0 +1,2 @@
+kasun,1234,Kasun Perera,0712345678,CUSTOMER
+admin,admin123,Store Manager,0770000000,ADMIN
